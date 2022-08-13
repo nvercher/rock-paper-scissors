@@ -1,1 +1,1 @@
-# rock-paper-scissors
+# Simple Rock Paper Scissors game coded using HTML, CSS and JS foundations as part of the Odin Project web development curriculum.
